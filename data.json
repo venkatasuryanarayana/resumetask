@@ -1,0 +1,51 @@
+{
+	"details":{
+		"name":"surya",
+		"image":"profile.png",
+		"email":"suryanarla54121@gmail.com",
+		"number":"+91-9999999999",
+		"address":"Kakinada"
+	},
+
+	"careerobjective":{
+		"info":"To become software developer"
+	},
+	"educationalqualification":[
+		{
+			"institute":"Aditya institute of Science & Techonology",
+			"degree":"B.tech",
+			"passoutyear":"2015",
+			"percentage":"96"
+		},
+
+		{
+			"institute":"Sri chaitanya college",
+			"degree":"Intermediate",
+			"passoutyear":"2011",
+			"percentage":"98"
+		},
+		{
+			"institute":"Narayana school",
+			"degree":"SSC",
+			"passoutyear":"2009",
+			"percentage":"99"
+		}
+
+
+	],
+
+	"techinicalskills":[
+		{
+			"title":"programming languages",
+			"info":["c,c++,java,python,javascript"]
+		},
+		{
+			"title":"Databases",
+			"info":["oracle","sql","mangoDB","TinyDB"]
+		},
+		{
+			"title":"Operating system",
+			"info":["windows","linux","ubuntu"]
+		}
+	]
+}
